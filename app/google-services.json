@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "851119871195",
+    "firebase_url": "https://utsanggita.firebaseio.com",
+    "project_id": "utsanggita",
+    "storage_bucket": "utsanggita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851119871195:android:56edf429cc60be1dc7e8fe",
+        "android_client_info": {
+          "package_name": "com.asus.uts_amub_ti7a_1711500037_anggita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851119871195-omilkrj1bmqahogc3tetkdhg0tn9foon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3N7W8QNzZ-89PNYdQ8i8UGRnCX7-M7cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851119871195-omilkrj1bmqahogc3tetkdhg0tn9foon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
